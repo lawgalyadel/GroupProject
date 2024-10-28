@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+body {
+    background-color: whitesmoke;
+    font-family: 'Open Sans', serif;
+}
+h1 {
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+}
+.headings {
+    font-weight: bold;
+    text-decoration: underline;
+}
+#Introduction {
+    background-color: green;
+    border: solid black 5px;
+    clear: both;
+    margin-left: 2%;
+    margin-bottom: 1%;
+    margin-right: 2%;
+}
+
+#sectionOne {
+    background-color: green;
+    border: solid black 5px;
+    float:left;
+    width: 30%;
+    margin-left: 2%
+}
+img {
+    width: 80%;
+    height: 40%;
+}
+#sectionTwo {
+    background-color: yellow;
+    border: solid black 5px;
+    float:left;
+    width: 30%;
+    margin-left: 2%
+}
+
+#sectionThree {
+    background-color: green;
+    border: solid black 5px;
+    float:right;
+    width: 30%;
+    margin-right: 2%
+}
