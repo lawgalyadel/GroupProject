@@ -3,6 +3,6 @@ h1 { font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Robot
     background-size: cover;
 }
 body {background-color: rgb(141, 228, 228);
-
-
+font-size: larger;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
